@@ -1,0 +1,401 @@
+Rank,Name,Net Worth,Age,Residence,Source,Gender
+1,Bill Gates,81 B,61,Medina  WA,Microsoft,Male
+2,Jeff Bezos,67 B,52,Seattle  WA,Amazon.com,Male
+3,Warren Buffett,65.5 B,86,Omaha  NE,Berkshire Hathaway,Male
+4,Mark Zuckerberg,55.5 B,32,Palo Alto  CA,Facebook,Male
+5,Larry Ellison,49.3 B,72,Woodside  CA,Oracle,Male
+6,Michael Bloomberg,45 B,74,New York  NY,Bloomberg LP,Male
+7,Charles Koch,42 B,81,Wichita  KS,diversified,Male
+7,David Koch,42 B,76,New York  NY,diversified,Male
+9,Larry Page,38.5 B,43,Palo Alto  CA,Google,Male
+10,Sergey Brin,37.5 B,43,Los Altos  CA,Google,Male
+11,Jim Walton,35.6 B,68,Bentonville  AR,Wal-Mart,Male
+12,S. Robson Walton,35.5 B,72,Bentonville  AR,Wal-Mart,Male
+13,Alice Walton,35.4 B,67,Fort Worth  TX,Wal-Mart,Female
+14,Sheldon Adelson,31.8 B,83,Las Vegas  NV,casinos,Male
+15,Steve Ballmer,27.5 B,60,Hunts Point  WA,Microsoft,Male
+16,Jacqueline Mars,27 B,77,The Plains  VA,candy,Female
+16,John Mars,27 B,81,Jackson  WY,candy,Male
+18,Phil Knight,25.5 B,78,Hillsboro  OR,Nike,Male
+19,George Soros,24.9 B,86,Katonah  NY,hedge funds,Male
+20,Michael Dell,20 B,51,Austin  TX,Dell computers,Male
+21,Paul Allen,18.9 B,63,Mercer Island  WA,Microsoft  investments,Male
+22,Len Blavatnik,18.2 B,59,London,diversified,Male
+23,Laurene Powell Jobs,17.7 B,53,Palo Alto  CA,Apple  Disney,Female
+24,James Simons,16.5 B,78,East Setauket  NY,hedge funds,Male
+25,Ray Dalio,15.9 B,67,Greenwich  CT,hedge funds,Male
+26,Carl Icahn,15.7 B,80,New York  NY,investments,Male
+27,Donald Bren,15.2 B,84,Newport Beach  CA,real estate,Male
+28,Charles Ergen,14.7 B,63,Denver  CO,satellite TV,Male
+29,Abigail Johnson,13.2 B,54,Milton  MA,money management,Female
+30,Harold Hamm,13.1 B,71,Oklahoma City  OK,oil & gas,Male
+31,Steve Cohen,13 B,60,Greenwich  CT,hedge funds,Male
+32,Thomas Peterffy,12.6 B,72,Palm Beach  FL,discount brokerage,Male
+33,Ronald Perelman,12.2 B,73,New York  NY,leveraged buyouts,Male
+34,Elon Musk,11.6 B,45,Los Angeles  CA,Tesla Motors,Male
+35,David Tepper,11.4 B,59,Miami Beach  FL,hedge funds,Male
+36,Eric Schmidt,11.3 B,61,Atherton  CA,Google,Male
+37,Lukas Walton,11.2 B,30,Jackson  WY,Wal-Mart,Male
+38,Rupert Murdoch,11.1 B,85,New York  NY,newspapers  TV network,Male
+39,Philip Anschutz,10.8 B,76,Denver  CO,investments,Male
+39,Jim Kennedy,10.8 B,69,Atlanta  GA,media,Male
+39,Blair Parry-Okeden,10.8 B,66,Scone,media,Female
+42,Donald Newhouse,10.5 B,86,Somerset County  NJ,media,Male
+42,Samuel Newhouse  Jr.,10.5 B,89,New York  NY,media,Male
+44,Dustin Moskovitz,10.4 B,32,San Francisco  CA,Facebook,Male
+45,Stephen Schwarzman,10.3 B,69,New York  NY,investments,Male
+46,John Menard  Jr.,9.4 B,76,Eau Claire  WI,home improvement stores,Male
+47,Patrick Soon-Shiong,9.2 B,64,Los Angeles  CA,pharmaceuticals,Male
+48,Leonard Lauder,9 B,79,New York  NY,Estee Lauder,Male
+49,Andrew Beal,8.9 B,64,Dallas  TX,banks  real estate,Male
+50,Jan Koum,8.8 B,40,Santa Clara  CA,WhatsApp,Male
+51,James Goodnight,8.7 B,73,Cary  NC,software,Male
+52,Herbert Kohler  Jr.,8.6 B,77,Kohler  WI,plumbing fixtures,Male
+52,John Paulson,8.6 B,60,New York  NY,hedge funds,Male
+54,Pierre Omidyar,8.1 B,49,Honolulu  HI,eBay,Male
+55,Thomas Frist  Jr.,7.9 B,78,Nashville  TN,health care,Male
+56,Gordon Moore,7.6 B,87,Woodside  CA,Intel,Male
+57,Ken Griffin,7.5 B,48,Chicago  IL,hedge funds,Male
+58,Eli Broad,7.4 B,83,Los Angeles  CA,investments,Male
+58,Stanley Kroenke,7.4 B,69,Columbia  MO,sports  real estate,Male
+58,Stephen Ross,7.4 B,76,New York  NY,real estate,Male
+61,Micky Arison,7.2 B,67,Bal Harbour  FL,Carnival Cruises,Male
+61,James Chambers,7.2 B,59,Palisades  NY,media,Male
+61,Carl Cook,7.2 B,54,Bloomington  IN,medical devices,Male
+61,George Kaiser,7.2 B,74,Tulsa  OK,oil & gas  banking,Male
+61,John Malone,7.2 B,75,Elizabeth  CO,cable television,Male
+61,Katharine Rayner,7.2 B,71,East Hampton  NY,media,Female
+61,Margaretta Taylor,7.2 B,74,Southampton  NY,media,Female
+68,Edward Johnson  III.,7.1 B,86,Boston  MA,money management,Male
+69,Richard Kinder,7 B,72,Houston  TX,pipelines,Male
+70,Shahid Khan,6.9 B,66,Naples  FL,auto parts,Male
+70,Hank & Doug Meijer,6.9 B,NA,Grand Rapids  MI,supermarkets,Male
+70,Les Wexner,6.9 B,79,New Albany  OH,retail,Male
+73,David Duffield,6.7 B,76,Incline Village  NV,business software,Male
+73,David Geffen,6.7 B,73,Malibu  CA,movies  record labels,Male
+73,Richard LeFrak,6.7 B,71,New York  NY,real estate,Male
+76,Charles Schwab,6.6 B,79,Atherton  CA,discount brokerage,Male
+77,Pauline MacMillan Keinath,6.4 B,82,St. Louis  MO,Cargill,Female
+78,Bruce Halle,6.3 B,86,Paradise Valley  AZ,tires,Male
+78,Travis Kalanick,6.3 B,40,San Francisco  CA,Uber Technologies,Male
+80,Ann Walton Kroenke,6.2 B,67,Columbia  MO,Wal-Mart,Female
+81,David Green,6.1 B,75,Oklahoma City  OK,retail,Male
+82,Robert Rowling,6 B,63,Dallas  TX,investments,Male
+83,Ralph Lauren,5.9 B,77,New York  NY,Ralph Lauren,Male
+83,John A. Sobrato,5.9 B,77,Atherton  CA,real estate,Male
+83,Dennis Washington,5.9 B,82,Missoula  MT,construction  mining,Male
+86,Michael & Marian Ilitch,5.8 B,87,Bingham Farms  MI,pizza,Male
+87,Christy Walton,5.6 B,67,Jackson  WY,Wal-Mart,Female
+88,Brian Acton,5.4 B,44,Palo Alto  CA,WhatsApp,Male
+88,Richard DeVos,5.4 B,90,Holland  MI,Amway,Male
+90,Bruce Kovner,5.3 B,71,New York  NY,hedge funds,Male
+90,Ted Lerner,5.3 B,91,Chevy Chase  MD,real estate,Male
+90,David Sun,5.3 B,65,Irvine  CA,computer hardware,Male
+90,John Tu,5.3 B,75,Rolling Hills  CA,computer hardware,Male
+94,Dannine Avara,5.2 B,52,Houston  TX,pipelines,Female
+94,Jim Davis,5.2 B,73,Newton  MA,New Balance,Male
+94,Scott Duncan,5.2 B,34,Houston  TX,pipelines,Male
+94,Milane Frantz,5.2 B,47,Houston  TX,pipelines,Female
+94,Jerry Jones,5.2 B,74,Dallas  TX,Dallas Cowboys,Male
+94,Whitney MacMillan,5.2 B,87,Minneapolis  MN,Cargill,Male
+94,Trevor Rees-Jones,5.2 B,65,Dallas  TX,oil & gas,Male
+94,Randa Williams,5.2 B,55,Houston  TX,pipelines,Female
+102,Robert Kraft,5.1 B,75,Brookline  MA,New England Patriots,Male
+102,Tom & Judy Love,5.1 B,79,Oklahoma City  OK,retail & gas stations,Male
+102,Leandro Rizzuto,5.1 B,78,Sheridan  WY,consumer products,Male
+105,Leon Black,5 B,65,New York  NY,private equity,Male
+105,John Doerr,5 B,65,Woodside  CA,venture capital,Male
+105,Israel Englander,5 B,68,New York  NY,hedge funds,Male
+105,Charles Johnson,5 B,83,Palm Beach  FL,money management,Male
+105,David Shaw,5 B,65,New York  NY,hedge funds,Male
+110,Edward Roski  Jr.,4.9 B,77,Los Angeles  CA,real estate,Male
+111,Ray Lee Hunt,4.8 B,73,Dallas  TX,oil  real estate,Male
+111,Alejandro Santo Domingo,4.8 B,39,New York  NY,beer,Male
+111,Andres Santo Domingo,4.8 B,38,New York  NY,beer,Male
+111,Daniel Ziff,4.8 B,45,New York  NY,investments,Male
+111,Dirk Ziff,4.8 B,52,North Palm Beach  FL,investments,Male
+111,Robert Ziff,4.8 B,50,New York  NY,investments,Male
+117,Tamara Gustavson,4.7 B,55,Malibu  CA,self storage,Female
+117,Sumner Redstone,4.7 B,93,Beverly Hills  CA,media,Male
+117,Sam Zell,4.7 B,75,Chicago  IL,real estate  private equity,Male
+120,Daniel Gilbert,4.6 B,54,Franklin  MI,Quicken Loans,Male
+120,Paul Tudor Jones  II.,4.6 B,62,Greenwich  CT,hedge funds,Male
+120,George Lucas,4.6 B,72,San Anselmo  CA,Star Wars,Male
+120,Steven Rales,4.6 B,65,Santa Barbara  CA,manufacturing,Male
+124,Charles Dolan,4.5 B,90,Oyster Bay  NY,cable television,Male
+124,Henry Kravis,4.5 B,72,New York  NY,private equity,Male
+124,Nancy Walton Laurie,4.5 B,65,Henderson  NV,Wal-Mart,Female
+124,George Roberts,4.5 B,73,Atherton  CA,private equity,Male
+128,Stanley Druckenmiller,4.4 B,63,New York  NY,hedge funds,Male
+128,Reinhold Schmieding,4.4 B,61,Naples  FL,medical devices,Male
+128,Sheldon Solow,4.4 B,88,New York  NY,real estate,Male
+131,Rupert Johnson  Jr.,4.3 B,76,Burlingame  CA,money management,Male
+131,Karen Pritzker,4.3 B,58,Branford  CT,hotels  investments,Female
+133,John Sall,4.2 B,68,Cary  NC,software,Male
+134,Phillip Frost,4.1 B,80,Miami Beach  FL,pharmaceuticals,Male
+134,Jeffery Hildebrand,4.1 B,57,Houston  TX,oil,Male
+134,Gabe Newell,4.1 B,54,Seattle  WA,videogames,Male
+134,Terrence Pegula,4.1 B,65,Boca Raton  FL,natural gas,Male
+134,Mitchell Rales,4.1 B,60,Potomac  MD,manufacturing  investments,Male
+134,Jeffrey Skoll,4.1 B,51,Los Angeles  CA,eBay,Male
+134,Leonard Stern,4.1 B,78,New York  NY,real estate,Male
+134,Ronda Stryker,4.1 B,62,Portage  MI,medical equipment,Female
+142,Jeremy Jacobs  Sr.,4 B,76,East Aurora  NY,Concessions,Male
+142,James Jannard,4 B,67,San Juan Islands  WA,sunglasses,Male
+142,Gwendolyn Sontheim Meyer,4 B,55,Rancho Santa Fe  CA,Cargill,Female
+142,H. Ross Perot  Sr.,4 B,86,Dallas  TX,computer services  real estate,Male
+142,Stewart and Lynda Resnick,4 B,NA,Beverly Hills  CA,agriculture  water,Male
+142,Russ Weiner,4 B,46,Delray Beach  FL,energy drinks,Male
+148,John Morris,3.9 B,68,Springfield  MO,sporting goods retail,Male
+148,Ira Rennert,3.9 B,82,New York  NY,investments,Male
+150,Marc Benioff,3.8 B,52,San Francisco  CA,business software,Male
+150,Diane Hendricks,3.8 B,69,Afton  WI,roofing,Female
+150,Reid Hoffman,3.8 B,49,Palo Alto  CA,LinkedIn,Male
+150,Robert Rich  Jr.,3.8 B,75,Islamorada  FL,frozen foods,Male
+150,Walter Scott  Jr.,3.8 B,85,Omaha  NE,utilities  telecom,Male
+150,Kelcy Warren,3.8 B,61,Dallas  TX,pipelines,Male
+156,Stephen Bisciotti,3.7 B,56,Millersville  MD,outsourcing  Baltimore Ravens,Male
+156,Austen Cargill  II.,3.7 B,65,Livingston  MT,Cargill,Male
+156,James Cargill  II.,3.7 B,67,Birchwood  WI,Cargill,Male
+156,Rick Caruso,3.7 B,57,Brentwood  CA,real estate,Male
+156,Martha Ingram,3.7 B,81,Nashville  TN,book distribution  transportation,Female
+156,H. Fisk Johnson,3.7 B,58,Racine  WI,cleaning products,Male
+156,Imogene Powers Johnson,3.7 B,86,Racine  WI,cleaning products,Female
+156,S. Curtis Johnson,3.7 B,61,Racine  WI,cleaning products,Male
+156,Helen Johnson-Leipold,3.7 B,59,Racine  WI,cleaning products,Female
+156,Winnie Johnson-Marquart,3.7 B,57,Virginia Beach  VA,cleaning products,Female
+156,Marianne Liebmann,3.7 B,63,Bozeman  MT,Cargill,Female
+156,Mary Alice Dorrance Malone,3.7 B,66,Coatesville  PA,Campbell Soup,Female
+156,Clayton Mathile,3.7 B,75,Brookville  OH,pet food,Male
+156,Igor Olenicoff,3.7 B,74,Lighthouse Point  FL,real estate,Male
+156,Frederick Smith,3.7 B,72,Memphis  TN,FedEx,Male
+156,Jerry Speyer,3.7 B,76,New York  NY,real estate,Male
+156,Steven Spielberg,3.7 B,69,Pacific Palisades  CA,Movies,Male
+156,Donald Trump,3.7 B,70,New York  NY,television  real estate,Male
+174,Bubba Cathy,3.6 B,62,Atlanta  GA,Chick-Fil-A,Male
+174,Dan Cathy,3.6 B,63,Atlanta  GA,Chick-Fil-A,Male
+174,Dan Friedkin,3.6 B,51,Houston  TX,Toyota dealerships,Male
+174,Jimmy Haslam,3.6 B,62,Knoxville  TN,gas stations  retail,Male
+174,Randal Kirk,3.6 B,62,NA,pharmaceuticals,Male
+174,Bernard Marcus,3.6 B,87,Atlanta  GA,Home Depot,Male
+174,Isaac Perlmutter,3.6 B,74,Palm Beach  FL,Marvel comics,Male
+174,Julian Robertson  Jr.,3.6 B,84,Locust Valley  NY,hedge funds,Male
+174,Jeff Sutton,3.6 B,56,New York  NY,real estate,Male
+174,Joan Tisch,3.6 B,89,New York  NY,diversified,Female
+184,Dagmar Dolby,3.5 B,75,San Francisco  CA,Dolby Laboratories,Female
+184,Archie Aldis Emmerson,3.5 B,87,Redding  CA,timberland  lumber mills,Male
+184,Ken Fisher,3.5 B,66,Camas  WA,money management,Male
+184,Robert McNair,3.5 B,79,Houston  TX,energy  sports,Male
+184,Michael Milken,3.5 B,70,Los Angeles  CA,investments,Male
+184,Steven Udvar-Hazy,3.5 B,70,Beverly Hills  CA,aircraft leasing,Male
+190,Anthony Pritzker,3.4 B,55,Los Angeles  CA,hotels  investments,Male
+190,Jay Robert (J.B.) Pritzker,3.4 B,51,Chicago  IL,hotels  investments,Male
+190,Donald Sterling,3.4 B,82,Beverly Hills  CA,real estate,Male
+190,Roger Wang,3.4 B,67,Nanjing,retail,Male
+194,Nathan Blecharczyk,3.3 B,33,San Francisco  CA,Airbnb,Male
+194,John Catsimatidis,3.3 B,68,New York  NY,oil  real estate,Male
+194,Brian Chesky,3.3 B,35,San Francisco  CA,Airbnb,Male
+194,David Filo,3.3 B,50,Palo Alto  CA,Yahoo,Male
+194,Joe Gebbia,3.3 B,35,San Francisco  CA,Airbnb,Male
+194,Tom Gores,3.3 B,52,Beverly Hills  CA,private equity,Male
+194,Jeff Greene,3.3 B,62,Palm Beach  FL,real estate  investments,Male
+194,John Overdeck,3.3 B,46,Millburn  NJ,hedge funds,Male
+194,Bernard Saul  II.,3.3 B,84,Chevy Chase  MD,banking  real estate,Male
+194,David Siegel,3.3 B,55,Scarsdale  NY,Hedge Funds,Male
+204,Neil Bluhm,3.2 B,78,Chicago  IL,real estate,Male
+204,Leon G. Cooperman,3.2 B,73,Short Hills  NJ,hedge funds,Male
+204,Mark Cuban,3.2 B,58,Dallas  TX,online media,Male
+204,Jack & Laura Dangermond,3.2 B,71,Redlands  CA,mapping software,Male
+204,Edward DeBartolo  Jr.,3.2 B,70,Tampa  FL,shopping centers,Male
+204,Ronald Lauder,3.2 B,72,New York  NY,Estee Lauder,Male
+204,George Lindemann,3.2 B,80,Palm Beach  FL,investments,Male
+204,Robert Pera,3.2 B,38,San Jose  CA,wireless networking gear,Male
+204,Clemmie Spangler  Jr.,3.2 B,84,Charlotte  NC,investments,Male
+204,Harry Stine,3.2 B,75,Adel  IA,agriculture,Male
+214,Arthur Blank,3.1 B,74,Atlanta  GA,Home Depot,Male
+214,John Paul DeJoria,3.1 B,72,Austin  TX,hair products  tequila,Male
+214,Kieu Hoang,3.1 B,72,Westlake Village  CA,medical products,Male
+214,Amos Hostetter  Jr.,3.1 B,79,Boston  MA,cable television,Male
+214,Thomas Pritzker,3.1 B,66,Chicago  IL,hotels  investments,Male
+214,David Rockefeller  Sr.,3.1 B,101,Sleepy Hollow  NY,real estate  investments,Male
+214,Henry Samueli,3.1 B,62,Newport Beach  CA,semiconductors,Male
+214,Lynn Schusterman,3.1 B,77,Tulsa  OK,oil & gas  investments,Female
+222,Do Won & Jin Sook Chang,3 B,60,Beverly Hills  CA,fashion retail,Male
+222,Bennett Dorrance,3 B,70,Paradise Valley  AZ,Campbell Soup,Male
+222,Allan Goldman,3 B,73,New York  NY,real estate,Male
+222,Jane Goldman,3 B,61,New York  NY,real estate,Female
+222,Amy Goldman Fowler,3 B,62,Rhinebeck  NY,real estate,Female
+222,Diane Kemper,3 B,71,New York  NY,real estate,Female
+222,Michael Moritz,3 B,62,San Francisco  CA,venture capital,Male
+222,Kevin Plank,3 B,44,Lutherville-Timonium  MD,Under Armour,Male
+222,Herbert Simon,3 B,82,Indianapolis  IN,real estate,Male
+222,Romesh T. Wadhwani,3 B,69,Palo Alto  CA,software,Male
+232,John Arnold,2.9 B,42,Houston  TX,hedge funds,Male
+232,Andrew & Peggy Cherng,2.9 B,NA,Las Vegas  NV,restaurants,Male
+232,Tom Golisano,2.9 B,75,Naples  FL,payroll services,Male
+232,James Leprino,2.9 B,79,Indian Hills  CO,cheese,Male
+232,Wilbur Ross  Jr.,2.9 B,79,Palm Beach  FL,investments,Male
+232,Haim Saban,2.9 B,72,Beverly Hills  CA,TV network  investments,Male
+232,Howard Schultz,2.9 B,63,Seattle  WA,Starbucks,Male
+239,Robert Bass,2.8 B,68,Fort Worth  TX,oil  investments,Male
+239,Charles Cohen,2.8 B,64,New York  NY,real estate,Male
+239,Peter Kellogg,2.8 B,74,Short Hills  NJ,investments,Male
+239,Kenneth Langone,2.8 B,81,Sands Point  NY,investments,Male
+239,Jorge Perez,2.8 B,67,Miami  FL,real estate,Male
+239,Richard Schulze,2.8 B,75,Bonita Springs  FL,Best Buy,Male
+239,Oprah Winfrey,2.8 B,62,Montecito  CA,TV shows,Female
+246,Jim Breyer,2.7 B,55,Woodside  CA,venture capital,Male
+246,Barry Diller,2.7 B,74,New York  NY,online media,Male
+246,Kenneth Feld,2.7 B,68,Tampa  FL,circus  live entertainment,Male
+246,Tilman Fertitta,2.7 B,59,Houston  TX,restaurants  casinos,Male
+246,B. Wayne Hughes,2.7 B,83,Lexington  KY,self storage,Male
+246,Min Kao,2.7 B,67,Leawood  KS,navigation equipment,Male
+246,Douglas Leone,2.7 B,59,Atherton  CA,venture capital,Male
+246,John Middleton,2.7 B,61,Bryn Mawr  PA,tobacco,Male
+246,Daniel Och,2.7 B,55,Scarsdale  NY,hedge funds,Male
+246,A. Jerrold Perenchio,2.7 B,85,Bel Air  CA,television  Univision,Male
+246,J. Christopher Reyes,2.7 B,62,Hobe Sound  FL,food distribution,Male
+246,Jude Reyes,2.7 B,61,Palm Beach  FL,food distribution,Male
+246,Gary Rollins,2.7 B,72,Atlanta  GA,pest control,Male
+246,Randall Rollins,2.7 B,85,Atlanta  GA,pest control,Male
+246,Mark Shoen,2.7 B,66,Phoenix  AZ,U-Haul,Male
+246,Peter Thiel,2.7 B,49,San Francisco  CA,Facebook  Palantir,Male
+246,Steve Wynn,2.7 B,74,Las Vegas  NV,casinos  hotels,Male
+246,Mortimer Zuckerman,2.7 B,79,New York  NY,real estate  media,Male
+264,Riley Bechtel,2.6 B,64,San Francisco  CA,engineering  construction,Male
+264,Stephen Bechtel  Jr.,2.6 B,91,San Francisco  CA,engineering  construction,Male
+264,Robert Duggan,2.6 B,72,Clearwater  FL,pharmaceuticals,Male
+264,Doris Fisher,2.6 B,85,San Francisco  CA,Gap,Female
+264,H. Wayne Huizenga,2.6 B,78,Fort Lauderdale  FL,investments,Male
+264,Daniel Loeb,2.6 B,54,New York  NY,hedge funds,Male
+264,David Murdock,2.6 B,93,Ventura  CA,Dole  real estate,Male
+264,Pat Stryker,2.6 B,60,Fort Collins  CO,medical equipment,Female
+264,William Wrigley  Jr.,2.6 B,53,North Palm Beach  FL,chewing gum,Male
+264,Anita Zucker,2.6 B,64,Charleston  SC,chemicals,Female
+274,Tom Benson,2.5 B,89,New Orleans  LA,New Orleans Saints,Male
+274,David Bonderman,2.5 B,74,Fort Worth  TX,private equity,Male
+274,John Brown,2.5 B,82,Portage  MI,medical equipment,Male
+274,Bharat & Neerja Sethi Desai,2.5 B,64,Fisher Island  FL,IT consulting,Male
+274,Don Hankey,2.5 B,73,Malibu  CA,auto loans,Male
+274,Joshua Harris,2.5 B,51,New York  NY,private equity,Male
+274,Bill Haslam,2.5 B,58,Knoxville  TN,truck stops,Male
+274,Henry Hillman,2.5 B,97,Pittsburgh  PA,investments,Male
+274,James Irsay,2.5 B,57,Carmel  IN,Indianapolis Colts,Male
+274,Stephen Mandel  Jr.,2.5 B,60,Greenwich  CT,hedge funds,Male
+274,C. Dean Metropoulos,2.5 B,70,Palm Beach  FL,investments,Male
+274,Henry Nicholas  III.,2.5 B,57,Newport Coast  CA,semiconductors,Male
+274,Marc Rowan,2.5 B,54,New York  NY,private equity,Male
+274,Phillip Ruffin,2.5 B,81,Las Vegas  NV,casinos  real estate,Male
+274,Robert Smith,2.5 B,54,Austin  TX,private equity,Male
+274,Ty Warner,2.5 B,72,Oak Brook  IL,real estate  plush toys,Male
+290,George Bishop,2.4 B,79,The Woodlands  TX,oil & gas,Male
+290,Peter Buck,2.4 B,85,Danbury  CT,Subway sandwich shops,Male
+290,William Conway  Jr.,2.4 B,67,McLean  VA,private equity,Male
+290,Daniel D'Aniello,2.4 B,70,Vienna  VA,private equity,Male
+290,Ray Davis,2.4 B,74,Dallas  TX,pipelines,Male
+290,Bill Gross,2.4 B,72,Laguna Beach  CA,investments,Male
+290,John Henry,2.4 B,67,Boca Raton  FL,sports,Male
+290,Sean Parker,2.4 B,37,New York  NY,Facebook,Male
+290,Bob Parsons,2.4 B,66,Scottsdale  AZ,web hosting,Male
+290,Jean (Gigi) Pritzker,2.4 B,54,Chicago  IL,hotels  investments,Female
+290,Penny Pritzker,2.4 B,57,Washington  DC,hotels  investments,Female
+290,David Rubenstein,2.4 B,67,Bethesda  MD,private equity,Male
+290,Patrick Ryan,2.4 B,79,Winnetka  IL,insurance,Male
+290,Julio Mario Santo Domingo  III.,2.4 B,31,New York  NY,beer,Male
+290,Thomas Secunda,2.4 B,62,Croton-on-Hudson  NY,Bloomberg LP,Male
+290,Alexander Spanos,2.4 B,93,Stockton  CA,real estate  San Diego Chargers,Male
+290,Warren Stephens,2.4 B,59,Little Rock  AR,investment banking,Male
+290,Mark Walter,2.4 B,56,Chicago  IL,finance,Male
+290,Denise York,2.4 B,66,Youngstown  OH,San Francisco 49ers,Female
+309,John Arrillaga,2.3 B,79,Portola Valley  CA,real estate,Male
+309,Noam Gottesman,2.3 B,55,New York  NY,hedge funds,Male
+309,Johnelle Hunt,2.3 B,84,Fayetteville  AR,trucking,Female
+309,Edward Lampert,2.3 B,54,Miami Beach  FL,Sears,Male
+309,Jay Paul,2.3 B,69,San Francisco  CA,real estate,Male
+309,Richard Peery,2.3 B,78,Palo Alto  CA,real estate,Male
+309,John Pritzker,2.3 B,63,San Francisco  CA,hotels  investments,Male
+309,Michael Rubin,2.3 B,44,Bryn Mawr  PA,online retail,Male
+309,E. Joe Shoen,2.3 B,67,Phoenix  AZ,U-Haul,Male
+309,Thomas Siebel,2.3 B,64,Woodside  CA,business software,Male
+309,Jon Stryker,2.3 B,58,Kalamazoo  MI,medical equipment,Male
+309,Meg Whitman,2.3 B,60,Atherton  CA,eBay,Female
+321,Scott Cook,2.2 B,64,Woodside  CA,software,Male
+321,Jim Davis,2.2 B,56,Cockeysville  MD,staffing & recruiting,Male
+321,Judy Faulkner,2.2 B,73,Madison  WI,health IT,Female
+321,John Fisher,2.2 B,55,San Francisco  CA,Gap,Male
+321,Rakesh Gangwal,2.2 B,63,Miami  FL,airline,Male
+321,Stanley Hubbard,2.2 B,83,St. Paul  MN,DirecTV,Male
+321,Brad Kelley,2.2 B,59,Franklin  TN,tobacco,Male
+321,Joe Mansueto,2.2 B,60,Chicago  IL,investment research,Male
+321,Stewart Rahr,2.2 B,70,New York  NY,drug distribution,Male
+321,Jeff Rothschild,2.2 B,61,Los Altos  CA,Facebook,Male
+321,Paul Singer,2.2 B,72,NA,hedge funds,Male
+321,Ted Turner,2.2 B,78,Atlanta  GA,cable television,Male
+321,John Tyson,2.2 B,63,Springdale  AR,food processing,Male
+321,Jerry Yang,2.2 B,48,Los Altos Hills  CA,Yahoo,Male
+335,S. Daniel Abraham,2.1 B,92,Palm Beach  FL,Slim-Fast,Male
+335,George Argyros,2.1 B,79,Newport Beach  CA,real estate  investments,Male
+335,Ron Baron,2.1 B,73,New York  NY,money management,Male
+335,Nick Caporella,2.1 B,80,Plantation  FL,beverages,Male
+335,James Coulter,2.1 B,57,San Francisco  CA,private equity,Male
+335,Gerald Ford,2.1 B,72,Dallas  TX,banking,Male
+335,Gordon Getty,2.1 B,82,San Francisco  CA,Getty Oil,Male
+335,Alec Gores,2.1 B,63,Beverly Hills  CA,private equity,Male
+335,Joseph Grendys,2.1 B,55,Chicago  IL,poultry,Male
+335,John Kapoor,2.1 B,73,Phoenix  AZ,healthcare,Male
+335,Thomas Lee,2.1 B,72,New York  NY,private equity,Male
+335,Jeffrey Lorberbaum,2.1 B,62,Chattanooga  TN,flooring,Male
+335,Arturo Moreno,2.1 B,70,Phoenix  AZ,billboards  Anaheim Angels,Male
+335,Daniel Pritzker,2.1 B,57,Marin County  CA,hotels  investments,Male
+335,Dan Snyder,2.1 B,52,Potomac  MD,Washington Redskins,Male
+335,Evan Spiegel,2.1 B,26,Los Angeles  CA,Snapchat,Male
+335,Ronald Wanek,2.1 B,75,Saint Petersburg  FL,furniture,Male
+335,William Young,2.1 B,75,Ypsilanti  MI,plastics,Male
+353,Todd Christopher,2 B,54,Clearwater  FL,hair care products,Male
+353,Chase Coleman  III.,2 B,41,New York  NY,hedge fund,Male
+353,James Dinan,2 B,57,New York  NY,hedge funds,Male
+353,Glenn Dubin,2 B,59,New York  NY,hedge funds,Male
+353,James France,2 B,72,Daytona Beach  FL,Nascar  racing,Male
+353,Jonathan Nelson,2 B,60,Providence  RI,private equity,Male
+353,Peter Peterson,2 B,90,New York  NY,investments,Male
+353,David Walentas,2 B,78,New York  NY,real estate,Male
+361,Leslie Alexander,1.9 B,73,Houston  TX,Houston Rockets,Male
+361,James Clark,1.9 B,72,Palm Beach  FL,Netscape  investments,Male
+361,Frank Fertitta  III.,1.9 B,54,Las Vegas  NV,casinos  Ultimate Fighting Championship,Male
+361,Lorenzo Fertitta,1.9 B,47,Las Vegas  NV,casinos  Ultimate Fighting Championship,Male
+361,W. Herbert Hunt,1.9 B,87,Dallas  TX,oil,Male
+361,Bruce Karsh,1.9 B,61,Los Angeles  CA,private equity,Male
+361,Howard Marks,1.9 B,70,New York  NY,private equity,Male
+361,Drayton McLane  Jr.,1.9 B,80,Temple  TX,Wal-Mart  logistics,Male
+361,Kavitark Ram Shriram,1.9 B,59,Menlo Park  CA,venture capital  Google,Male
+361,Mark Stevens,1.9 B,56,Atherton  CA,venture capital,Male
+361,Glen Taylor,1.9 B,75,Mankato  MN,printing,Male
+361,Elaine Wynn,1.9 B,74,Las Vegas  NV,casinos  hotels,Female
+361,Richard Yuengling  Jr.,1.9 B,73,Pottsville  PA,beer,Male
+374,Louis Bacon,1.8 B,60,Oyster Bay  NY,hedge funds,Male
+374,Edward Bass,1.8 B,71,Fort Worth  TX,oil  investments,Male
+374,Lee Bass,1.8 B,60,Fort Worth  TX,oil  investments,Male
+374,Sid Bass,1.8 B,74,Fort Worth  TX,oil  investments,Male
+374,Alexandra Daitch,1.8 B,53,Old Lyme  CT,Cargill,Female
+374,Eric Lefkofsky,1.8 B,47,Glencoe  IL,Groupon,Male
+374,Jeffrey Lurie,1.8 B,65,Wynnewood  PA,Philadelphia Eagles,Male
+374,Sarah MacMillan,1.8 B,62,Los Angeles  CA,Cargill,Female
+374,Bobby Murphy,1.8 B,28,Venice  CA,Snapchat,Male
+374,Jennifer Pritzker,1.8 B,66,Chicago  IL,hotels  investments,Female
+374,Linda Pritzker,1.8 B,63,Missoula  MT,hotels  investments,Female
+374,Phillip Ragon,1.8 B,67,Boston  MA,health IT,Male
+374,Larry Robbins,1.8 B,47,Alpine  NJ,hedge funds,Male
+374,T. Denny Sanford,1.8 B,80,Sioux Falls  SD,banking  credit cards,Male
+374,Charles Simonyi,1.8 B,68,Medina  WA,Microsoft,Male
+374,Lucy Stitzer,1.8 B,56,Greenwich  CT,Cargill,Female
+374,Katherine Tanner,1.8 B,60,Marathon  FL,Cargill,Female
+374,Vincent Viola,1.8 B,60,New York  NY,electronic trading,Male
+374,Amy Wyss,1.8 B,45,Wilson  WY,medical equipment,Female
+374,Jon Yarbrough,1.8 B,59,Franklin  TN,video games,Male
+374,Charles Zegar,1.8 B,68,New York  NY,Bloomberg LP,Male
+395,Carol Jenkins Barnett,1.7 B,60,Lakeland  FL,Publix supermarkets,Female
+395,Nicolas Berggruen,1.7 B,55,Beverly Hills  CA,investments,Male
+395,Timothy Boyle,1.7 B,67,Portland  OR,Columbia Sportswear,Male
+395,Christopher Cline,1.7 B,58,North Palm Beach  FL,coal,Male
+395,Jen-Hsun Huang,1.7 B,53,Los Altos  CA,semiconductors,Male
+395,Gail Miller,1.7 B,73,Salt Lake City  UT,basketball  car dealers,Female

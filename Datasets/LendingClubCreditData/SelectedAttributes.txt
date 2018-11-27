@@ -1,0 +1,26 @@
+Selected might useful attributes from Lending Club Loan Data set:
+loan_amnt: Numerical. Range from: 500-35000.
+The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
+
+int_rate: Numerical. Interest Rate on the loan. Range from: 0-25%.
+
+installment: Numerical. The monthly payment owed by the borrower if the loan originates. Range from: 15.67-1305.19.
+
+annual_inc: Numerical. annual income. Range from: 1896.0-6000000.0.
+
+dti: Numerical. A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income. Range from: 0-29.9.
+
+revol_bal: Numerical. Total credit revolving balance. Range from: 0.0-1207359.0.
+
+total_pymnt: Numerical. Payments received to date for total amount funded. Range from: 0.0-58563.67993.
+
+Selected might useful attributes from Lending Club Rejected Data set:
+
+Amount Requested: Numerical. Range from: 0.0-1400000.0.
+
+Risk_Score: Numerical. Range from: 0.0-850.0.
+
+Debt-To-Income Ratio: Numerical. Range from:-1%-99999%.
+
+Employment Length: Categorical. Values:  < 1 year, 1 year, 2 years, ...,9 years, 10+ years.
+

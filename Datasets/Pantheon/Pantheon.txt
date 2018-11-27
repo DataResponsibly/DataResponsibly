@@ -1,0 +1,9 @@
+Description: 
+We present the Pantheon 1.0 dataset: a manually verified dataset of individuals that have transcended linguistic, temporal, and geographic boundaries. The Pantheon 1.0 dataset includes the 11,341 biographies present in more than 25 languages in Wikipedia and is enriched with: (i) manually verified demographic information (place and date of birth, gender) (ii) a taxonomy of occupations classifying each biography at three levels of aggregation and (iii) two measures of global popularity including the number of languages in which a biography is present in Wikipedia (L), and the Historical Popularity Index (HPI) a metric that combines information on L, time since birth, and page-views (2008–2013). We compare the Pantheon 1.0 dataset to data from the 2003 book, Human Accomplishments, and also to external measures of accomplishment in individual games and sports: Tennis, Swimming, Car Racing, and Chess. In all of these cases we find that measures of popularity (L and HPI) correlate highly with individual accomplishment, suggesting that measures of global popularity proxy the historical impact of individuals.
+If you use the Pantheon dataset, please cite: Yu, A. Z., et al. (2016). Pantheon 1.0, a manually verified dataset of globally famous biographies. Scientific Data 2:150075. doi: 10.1038/sdata.2015.75
+
+
+Source: http://pantheon.media.mit.edu/rankings/cities/all/all/-4000/2010/H15
+
+Method: http://pantheon.media.mit.edu/methods
+
